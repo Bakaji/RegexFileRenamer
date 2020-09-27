@@ -1,0 +1,11 @@
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.exe
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.deps.json
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.runtimeconfig.json
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.runtimeconfig.dev.json
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.dll
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\bin\Debug\netcoreapp3.1\RegexFileRenamer.pdb
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\obj\Debug\netcoreapp3.1\RegexFileRenamer.csprojAssemblyReference.cache
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\obj\Debug\netcoreapp3.1\RegexFileRenamer.AssemblyInfoInputs.cache
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\obj\Debug\netcoreapp3.1\RegexFileRenamer.AssemblyInfo.cs
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\obj\Debug\netcoreapp3.1\RegexFileRenamer.dll
+C:\Users\Baelhadj\source\repos\RegexFileRenamer\RegexFileRenamer\obj\Debug\netcoreapp3.1\RegexFileRenamer.pdb
